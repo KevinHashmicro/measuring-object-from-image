@@ -1,5 +1,5 @@
 # tubes-pcd
-Mengukur panjang suatu object dengan menggunakan citra
+Mengukur panjang suatu object dengan menggunakan citra dengan menggunakan ukuran benda paling kiri sebagai patokan
 
 ## keterangan proses pengolahan
 - mengubah citra ke grayscale:
