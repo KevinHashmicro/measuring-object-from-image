@@ -9,7 +9,7 @@ Mengukur panjang suatu object dengan menggunakan citra dengan menggunakan ukuran
 
 ## Keterangan proses pengolahan
 - mengubah citra ke grayscale:
-  dilakukan secara manual dengan bantuan np.array yang mengalikan nilai RGB suatu citra dengan [0.2989, 0.5870, 0.1140] kemudian dijumlahkan menjadi citra grayscale
+  dilakukan secara manual dengan bantuan np.dot yang mengalikan nilai RGB suatu citra dengan [0.2989, 0.5870, 0.1140] kemudian dijumlahkan menjadi citra grayscale
 - menambahkan efek gaussian blur pada citra :
   dilakukan secara manual dengan menggunakan fungsi konvolusi buatan sendiri dan mask dengan kernel size 3 x 3
 - mengisi nilai border (ujung) citra yang bernilai 0 efek dari fungsi konvolusi:
