@@ -18,7 +18,7 @@ Mengukur panjang suatu object dengan menggunakan citra dengan menggunakan ukuran
   masih menggunakan bantuan cv2, dalam proses menggunakan fungsi buatan sendiri
 - find contours (kontur) : 
   masih menggunakan bantuan cv2, dalam proses menggunakan fungsi buatan sendiri
-- draw dot, line, text :
+- draw point, line, text :
   menggunakan bantuan cv2
 
 ## Screenshots
